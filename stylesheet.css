@@ -1,0 +1,127 @@
+.middle_table1
+{
+ background: #d0d0d0;
+}
+.middle_table2
+{
+ background: #ffffff;
+}
+.dataTableHeadingRow 
+{ 
+ height:27px;
+ background-color: #5D5D5D;
+}
+.dataTableHeadingRow1 
+{ 
+ background-color: #5D5D5D;
+}
+.dataTableRow1 
+{
+ height:20px;
+ background-color: #F0F1F1; 
+}
+.dataTableRow2 
+{ 
+  height:20px;
+  background-color: #ffffff; 
+}
+.dataTableContent 
+{ 
+ font-family: Arial,Verdana, Helvetica, sans-serif; 
+ font-size: 11px; 
+ color: #000000;
+ padding-left:1px;
+}
+.dataTableHeadingContent 
+{ 
+ font-family: Arial,Verdana, Helvetica, sans-serif; 
+ font-size: 11px; 
+ color: #ffffff; 
+ font-weight: none; 
+ vertical-align:middle;
+}
+.inputRequirement 
+{ 
+ font-family: Arial,Verdana, Helvetica, sans-serif;
+ font-size: 10px; 
+ color: #ff0000; 
+}
+.tab1
+{
+ background-color: #666666; 
+ font-size:12px;
+ color: #EEEEEE;
+ padding:5px;
+ font-weight: bold;
+ cursor:pointer;
+ width:95%;
+}
+.inactive_tab
+{
+ background-color: #FFFFE6; 
+ border-bottom:1px solid #ddd;
+ border-top:1px solid #ddd;
+ font-size:12px;
+ color: #000;
+ padding:5px;
+ font-weight: bold;
+ text-align:center;
+ cursor:pointer;
+}
+.active_tab
+{
+ background-color: #EEEEEE; 
+ font-size:12px;
+ color: #000000;
+ padding:5px;
+ text-align:center;
+ font-weight: bold;
+ cursor:pointer;
+}
+div.sca_current_time
+{
+ padding-right:4%;
+ font-family: Arial,Verdana, Helvetica, sans-serif;
+ font-size: 11px; 
+}
+ul.indeed_help_square
+{
+ list-style-type:square;
+ padding:6px;
+}
+ul.indeed_help_circle
+{
+ list-style-type:circle;
+ padding:6px;
+}
+ul.indeed_help_lower-alpha
+{
+ list-style-type:lower-alpha;
+ padding:6px;
+}
+h3.indeed_heading
+{
+ color:#000088;
+}
+h4.indeed_heading1
+{
+ color:#0000aa;
+}
+.intro
+{
+ font-family: Arial,Verdana, Helvetica, sans-serif;
+ font-size: 11px; 
+ color:#444;
+ font-weight: bold;
+}
+input.indeedImporterInput{
+ width:50%;
+}
+.highlight
+{
+ background-color: #FFFFE6; 
+ border-bottom:1px solid #ddd;
+ border-top:1px solid #ddd;
+ padding:10px;
+ width:70%;
+}
